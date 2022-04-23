@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif">
 
-<p align="left"> <a href="https://twitter.com/kartik_bhamare" target="blank"><img src="https://img.shields.io/twitter/follow/kartik_bhamare?logo=twitter&style=for-the-badge" alt="kartik_bhamare" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kartik_bhamare" target="blank"><img src="https://img.shields.io/twitter/follow/Kartikbhamare_?logo=twitter&style=for-the-badge" alt="kartik_bhamare" /></a> </p>
 
 - 📫 How to reach me **kartikbhamare.111@gmail.com**
 

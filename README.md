@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Kartik Bhamare.</h1>
 <h3 align="center">happy soul.</h3>
-img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" 
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>

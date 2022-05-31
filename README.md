@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartiksbhamare&show_icons=true&locale=en" alt="kartiksbhamare" /></p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lwcf6nm159jro5cm9a6p56dx1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Bhamare.</h1>
 <h3 align="center">happy soul.</h3>
 
-<img align="right" alt="Coding" width="400" src=" https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif">
 
 # 💫About Me :
 🔭 I’m currently working on ReactJs

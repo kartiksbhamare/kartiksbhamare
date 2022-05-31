@@ -7,7 +7,8 @@
 <h1 align="center">Hi 👋, I'm Kartik Bhamare.</h1>
 <h3 align="center">happy soul.</h3>
 
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
+")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif">

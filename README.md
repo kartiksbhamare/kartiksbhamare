@@ -1,7 +1,27 @@
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/kartiksbhamare/kartiksbhamare/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
+or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
+
+<i>Happy Coding!</i> 😊
+
+
 
 <h1 align="center">Hi 👋, I'm Kartik Bhamare.</h1>
 <h3 align="center">happy soul.</h3>
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?kartiksbhamare=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif">
 
 # 💫About Me :
@@ -21,11 +41,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kartiksbhamare&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksbhamare&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=kartiksbhamare&icon=0&color=0)](https://visitcount.itsvg.in)
-<a href="https://moon-svg.minung.dev">
-    <img src="https://moon-svg.minung.dev/moon.svg?size=75&theme=basic" alt="moon.svg" />
-  </a>
+### Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### random joke 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />

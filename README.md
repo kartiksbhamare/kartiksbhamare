@@ -36,9 +36,3 @@ Ask me anything
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kartiksbhamare&theme=dark&hide_border=false)<br/>
 
 
-
-### Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-### random joke 
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />

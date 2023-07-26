@@ -7,7 +7,6 @@ This is kartik.
 - 🏢 Computer Science student at IIIT Dharwad.
 - 👨‍💻 Full Stack Web Developer .
 - 🔭 Working on Development Projects & DSA.
-- ⚡ Check out my Work: </br>
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/kartik-bhamare-853278205/).
 
 <!--
